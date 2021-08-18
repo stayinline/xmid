@@ -1,2 +1,1 @@
-# xmid
-test readme
+# xmind
